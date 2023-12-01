@@ -15,4 +15,9 @@
 
 # 游戏类汇总
 
+``` dataview
+Table name, rating
+FROM "XR/XR应用体验/game"
+```
+
 ### moss1
