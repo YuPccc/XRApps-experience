@@ -16,7 +16,7 @@
 # 游戏类汇总
 
 ``` dataview
-Table name, rating
+Table 游戏名,体验评分,交互评分,官方游戏评分,总分,游戏类型
 FROM "XR/XR应用体验/game"
 ```
 
