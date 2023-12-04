@@ -42,3 +42,7 @@
 
 最终boss整体过程非常流畅, 个人作为手残党在boss压迫的情况下仍然一次性通过, 可以说引导做得很到位, 难度和时长的控制都很符合童话这一个定位
 
+类似游戏:
+**Astro Bot Rescue Mission**
+**Chronos**
+**Edge of Nowhere**
